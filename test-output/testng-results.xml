@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24908" started-at="2022-05-22T20:02:07 EET" finished-at="2022-05-22T20:02:32 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24908" started-at="2022-05-22T20:02:07 EET" finished-at="2022-05-22T20:02:32 EET">
+      <class name="Test.CareerListTest">
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:Test.CareerListTest@7a36aefa]" name="StartDriver" is-config="true" duration-ms="37700" started-at="2022-05-22T20:01:30 EET" finished-at="2022-05-22T20:02:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="CareersSofia()[pri:4, instance:Test.CareerListTest@7a36aefa]" name="CareersSofia" duration-ms="24889" started-at="2022-05-22T20:02:07 EET" finished-at="2022-05-22T20:02:32 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CareersSofia -->
+        <test-method status="PASS" signature="StopDriver()[pri:0, instance:Test.CareerListTest@7a36aefa]" name="StopDriver" is-config="true" duration-ms="586" started-at="2022-05-22T20:02:32 EET" finished-at="2022-05-22T20:02:33 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StopDriver -->
+      </class> <!-- Test.CareerListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
