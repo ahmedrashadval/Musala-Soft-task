@@ -8,7 +8,7 @@ public class CareerListTest extends TestBase {
 	
 	CareersList CL;
 	
-	@Test(priority =4 , alwaysRun=true)
+	@Test(priority =5 , alwaysRun=true)
 	public void CareersSofia() {
 		
 		CL= new CareersList(driver);
@@ -18,9 +18,9 @@ public class CareerListTest extends TestBase {
 		CL.SofiaPos();
 		
 		
-//		System.out.println("Skopje");
+		System.out.println("Skopje");
 		
-//		CL.SkopjePos();
+		CL.SkopjePos();
 		
 		
 		

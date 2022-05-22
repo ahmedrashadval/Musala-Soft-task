@@ -56,11 +56,11 @@ public class Readata extends TestBase {
 	    Mob=cell7.getStringCellValue();
 	    CV=cell8.getStringCellValue();
 	    
-		System.out.println(Name);
-		System.out.println(Email);
-		System.out.println(Mob);
-		System.out.println(CV);
-		
+//		System.out.println(Name);
+//		System.out.println(Email);
+//		System.out.println(Mob);
+//		System.out.println(CV);
+//		
 	}
 
 

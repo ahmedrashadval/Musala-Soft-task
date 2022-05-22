@@ -7,6 +7,7 @@
       <class name="Test.ContactUsTest"/>
       <class name="Test.CompanyTest"/>
       <class name="Test.CareerTest"/>
+      <class name="Test.CareerListTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
